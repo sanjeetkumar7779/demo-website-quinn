@@ -1,3 +1,5 @@
+
+
 .main-navigation-container{
 	background: #ffffff;
 	position: static;
@@ -99,15 +101,14 @@
 	font-size: 17px;
 	font-family: sans-serif;
 	list-style: disc;
-	width: 50%;
+	width: 36%;
 }
 .heading2{
 	float: right;
-	margin-right: 405px;
 	font-size: 17px;
 	font-family: sans-serif;
 	list-style: disc;
-	width: 40%;
+	width: 25%;
 }
  
 
@@ -155,7 +156,7 @@
  }
  .main-home-video{
  	box-sizing: border-box;
- 	height: 800px;
+ 	height: 656px;
  	width: 100%;
 }
  .home-video{
@@ -192,7 +193,7 @@
 }
 .mini-image1{
 	position: absolute;
-	bottom: -722px;
+	bottom: -730px;
 	margin-left: 128px;
 	height: 57px;
 }
@@ -209,7 +210,7 @@
 }
 .mini-image2{
 	position: absolute;
-	bottom: -722px;
+	bottom: -730px;
 	margin-left: 128px;
 	height: 57px;
 }
@@ -223,7 +224,7 @@
 }
 .mini-image3{
 	position: absolute;
-	bottom: -722px;
+	bottom: -730px;
 	margin-left: 128px;
 	height: 57px;
 }
@@ -237,7 +238,7 @@
 }
 .mini-image4{
 	position: absolute;
-	bottom: -722px;
+	bottom: -730px;
 	margin-left: 128px;
 	height: 57px;
 }
@@ -251,16 +252,15 @@
 }
 .mini-image5{
 	position: absolute;
-	bottom: -722px;
+	bottom: -730px;
 	margin-left: 128px;
 	height: 57px;
 }
 .image-text5{
-	font-size: 24px;
-	font-weight: 400;
+	font-size: 18px;
 	color: black;
 	margin-left: 31px;
-	padding-top: 30px;
+	padding-top: 53px;
 }
 .video1{
 	border: 1px solid black;
@@ -281,6 +281,9 @@
 .video5{
 	border: 1px solid black;
 	border-radius: 10px;
+}
+image-text5{
+	padding-top: 10px;
 }
 .shopping-container{
 	height: 500px;
@@ -322,8 +325,8 @@
 	font-size: 21px;
 }
 .page2{
-	font-size: 21px;
-	margin-left: 114px;
+	font-size: 20px;
+	margin-left: 93px;
 }
 .column3{
 	margin-left: 123px;
@@ -397,7 +400,7 @@
 .pic2{
 	width: 35%;
 	height: 500px;
-	margin-left: 953px;
+	margin-left: 714px;
 }
 .section-heading2{
 	height: 380px;
@@ -468,51 +471,6 @@
 
 
 
- 
-/*@media screen and (max-width: 479px)
-h1 {
-    font-size: 50px;
-    line-height: 65px;
-}
-
-@media screen and (max-width: 767px)
-h1 {
-    font-size: 55px;
-    line-height: 70px;
-}
-h1 {
-    margin: 0;
-    color: #04121f;
-    font-size: 64px;
-    line-height: 80px;
-    font-weight: 700;
-}
-@media screen and (max-width: 991px)
-.wrapper {
-    padding-top: 90px;
-    padding-bottom: 90px;
-    
-}
-@media screen and (max-width: 767px)
-body {
-    font-size: 21px;
-}
-body {
-    margin: 10em;
-    padding: 14em;
-    min-height: 100%;
-    background-color: #fff;
-    font-family: sans-serif;
-    font-size: 18px;
-    line-height: 30px;
-    font-weight: 400;
-}
-
-
-home-video{
-	width: 100%;
-	height: auto;
-}*/
 
 
 
